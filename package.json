@@ -1,0 +1,55 @@
+{
+  "name": "info-react-testing-mocking-api-and-modules",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://Stathis-Renieris.github.io/info-react-testing-mocking-api-and-modules",
+  "engines": {
+    "node": ">=16",
+    "npm": ">=8.16.0"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-error-boundary": "^3.1.4",
+    "react-use-geolocation": "^0.1.1"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.17.12",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^14.2.1",
+    "@types/react": "^18.0.14",
+    "@types/react-dom": "^18.0.5",
+    "gh-pages": "^5.0.0",
+    "react-scripts": "^5.0.1"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "eslintIgnore": [
+    "coverage",
+    "node_modules",
+    "build"
+  ],
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
