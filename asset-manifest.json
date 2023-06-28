@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/info-react-testing-mocking-api-and-modules/static/css/main.84f2b814.css",
+    "main.js": "/info-react-testing-mocking-api-and-modules/static/js/main.9cf5749f.js",
+    "index.html": "/info-react-testing-mocking-api-and-modules/index.html",
+    "main.84f2b814.css.map": "/info-react-testing-mocking-api-and-modules/static/css/main.84f2b814.css.map",
+    "main.9cf5749f.js.map": "/info-react-testing-mocking-api-and-modules/static/js/main.9cf5749f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84f2b814.css",
+    "static/js/main.9cf5749f.js"
+  ]
+}
